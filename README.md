@@ -2,8 +2,7 @@
 
 This repository demonstrates a custom SwiftUI implementation for an auto-scrolling header that smoothly transitions between sections as the user scrolls through the content.
 
-![ScreenRecording2024-07-08at18 41 15-ezgif com-optimize](https://github.com/DHenrickCandido/auto-scroll-header-swiftui/assets/49327864/c82b6232-577f-4eb6-925a-70094f458d07)
-
+![ScreenRecording2024-07-08at18 41 15-ezgif com-video-to-gif-converter](https://github.com/DHenrickCandido/auto-scroll-header-swiftui/assets/49327864/f8943b78-a40c-417f-9ceb-3d5a2fdf2986)
 
 ## Features
 
