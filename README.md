@@ -57,14 +57,15 @@ struct ContentView: View {
 
     // ... other logic ...
 }
-License
+```
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributing
+## Contributing
 Contributions are welcome! Please submit a pull request with a clear description of your changes.
 
-Acknowledgements
+## Acknowledgements
 This implementation draws inspiration from various existing auto-scrolling header solutions.
 
-Demo Project
-This repository includes a demo project to showcase the implementation in action. You can build and run the demo to see how the auto-scrolling header works. ```
+## Demo Project
+This repository includes a demo project to showcase the implementation in action. You can build and run the demo to see how the auto-scrolling header works. 
